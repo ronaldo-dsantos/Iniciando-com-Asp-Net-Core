@@ -3359,9 +3359,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\05-iniciando-com-asp-net-core\\DemoVS\\DemoVS.csproj",
-      "projectName": "DemoVS",
-      "projectPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\05-iniciando-com-asp-net-core\\DemoVS\\DemoVS.csproj",
+      "projectUniqueName": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\05-iniciando-com-asp-net-core\\DemoVS\\PorBaixoDosPanos.csproj",
+      "projectName": "PorBaixoDosPanos",
+      "projectPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\05-iniciando-com-asp-net-core\\DemoVS\\PorBaixoDosPanos.csproj",
       "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\05-iniciando-com-asp-net-core\\DemoVS\\obj\\",
       "projectStyle": "PackageReference",

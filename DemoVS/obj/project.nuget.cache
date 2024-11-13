@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sjryWbn5DoM=",
+  "dgSpecHash": "qxtcnsf0k+4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\05-iniciando-com-asp-net-core\\DemoVS\\DemoVS.csproj",
+  "projectFilePath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\05-iniciando-com-asp-net-core\\DemoVS\\PorBaixoDosPanos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ronal\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ronal\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

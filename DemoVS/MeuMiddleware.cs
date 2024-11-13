@@ -1,7 +1,8 @@
-﻿using Serilog;
+﻿
+using Serilog;
 using System.Diagnostics;
 
-namespace DemoVS
+namespace PorBaixoDosPanos
 {
     // Estrutura de um middleware
     public class TemplateMiddleware
@@ -50,9 +51,9 @@ namespace DemoVS
         }
     }
 
-    public static class SerilogExtensions
+    public static class SerilogExtensions // criando a extensão, isso é útil para encapsular várias instruções de código e ser implementada com uma única linha na classe Program.cs 
     {    
-        public static void AddSerilog(this WebApplicationBuilder builder)
+        public static void AddSerilog(this WebApplicationBuilder builder) // extendendo o comportamento do WebApplicationBuilder (extension method)
         {
             builder.Host.UseSerilog();
             // Caso exista mais que uma linha de código
@@ -62,13 +63,12 @@ namespace DemoVS
         }
     }
 
-    public static class LogTempoMiddlewareExtensions
+    public static class LogTempoMiddlewareExtensions // criando a extensão, isso é útil para encapsular várias instruções de código e ser implementada com uma única linha na classe Program.cs
     {
-        public static void UseLogTempo(this WebApplication app)
+        public static void UseLogTempo(this WebApplication app) // extendendo o comportamento do WebApplication (extension method)
         {
             app.UseMiddleware<LogTempoMiddleware>();
             // Caso exista outras configurações ou outros middlewares
         }
     }
-
 }
