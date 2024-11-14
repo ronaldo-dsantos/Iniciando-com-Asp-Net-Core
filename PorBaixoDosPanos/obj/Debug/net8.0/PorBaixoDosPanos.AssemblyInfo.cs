@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PorBaixoDosPanos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9ab68927bec33c13abb1dbc79e78eeb239dfbce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+036c4d74f058443add36f0a700bfd9d574337270")]
 [assembly: System.Reflection.AssemblyProductAttribute("PorBaixoDosPanos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PorBaixoDosPanos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
