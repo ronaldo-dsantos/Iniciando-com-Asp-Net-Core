@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\05-iniciando-com-asp-net-core\\DemoRazorPages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A6C38C-0E90-41C1-A010-941CF3D50D8C}|DemoRazorPages.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\05-iniciando-com-asp-net-core\\demorazorpages\\pages\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8A6C38C-0E90-41C1-A010-941CF3D50D8C}|DemoRazorPages.csproj|solutionrelative:pages\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\05-iniciando-com-asp-net-core\\DemoRazorPages\\Pages\\Alunos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Alunos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\05-iniciando-com-asp-net-core\\DemoRazorPages\\Pages\\Alunos\\Create.cshtml*",
+              "RelativeToolTip": "Pages\\Alunos\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T02:41:02.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
